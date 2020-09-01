@@ -1,0 +1,28 @@
+.site-header {
+    background-color:#e7ae6d99 ;
+    color:#c71616;
+    height:100vh;
+    font-family: monospace ;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-text{
+    margin: 50px;
+    align-self: center;
+}
+
+.join{
+    color:#c71616;
+}
+.profile-pic{
+    border-radius:50%;
+    height: 300px;
+    width: 300px;
+    box-shadow: #8f765a 5px 9px 9px;
+}
+body{
+    margin :0;
+}
